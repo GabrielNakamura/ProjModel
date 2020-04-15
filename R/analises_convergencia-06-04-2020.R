@@ -9,11 +9,12 @@ library(ade4)
 library(geiger)
 library(phytools)
 
+
+
 ####functions####
 source(here::here("R", "function", "function_superTree_fish.R"))
 result_linear_model_taxonomic<- result_linear_model_taxonomic<- readRDS(file = here::here("output", "result_linear_Model_Taxonomic.rds")) #reading results from linear model with taxonomic beta diversity
 result_modelTaxonomic<- readRDS(file = here::here("output", "result_model_BetaTaxonomic.rds")) #reading models (Adonis and lm)
-
 
 #####data####
 comm<- read.table(here::here("data", "processed", "comm_Parana-Paraguai.txt"), header= TRUE) #community data

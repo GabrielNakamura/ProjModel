@@ -2,6 +2,7 @@
 
 ####total taxonomic beta diversity#####
 quartz() #open a new window to plot ordination graphic
+windows()
 plot(scores.total.taxonomic[,1],scores.total.taxonomic[,2],type="n",
      main="PCoA taxonomic beta-div")
 points(scores.total.taxonomic[1:10,1],scores.total.taxonomic[1:10,2],pch=19,cex=1.8)
