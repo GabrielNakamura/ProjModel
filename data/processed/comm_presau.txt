@@ -1,0 +1,21 @@
+"Astyanax_lacustris" "Aplocheilus_lineatus" "Astyanax_marionae" "Astyanacinus_moorii" "Astyanax_sp" "Astyanax_eigenmanniorum" "Astyanax_fasciatus" "Apareiodon_ibitiensis" "Ancistrus_sp" "Astyanax_paranae" "Apareiodon_piracicabae" "Bryconamericus_sp" "Bryconamericus_stramineus" "Corydoras_aeneus" "Crenicichla_britskii" "Crenicichla_sp" "Callichthys_callichthys" "Characidium_gomesi" "Characidium_laterale" "Cichlasoma_paranaense" "Characidium_zebra" "Deuterodon_sp" "Gymnotus_sp" "Gymnotus_inaequilabiatus" "Hypostomus_ancistroides" "Hypostomus_cochliodon" "Hypostomus_iheringii" "Hypostomus_paraguai" "Hisonotus_insperatus" "Hisonotus_sp" "Hoplias_malabaricus" "Hemigrammus_marginatus" "Hypostomus_sp" "Imparfinis_schubarti" "Jupiaba_acantogaster" "Leporinus_friderici" "Loricariichthys_platymetopon" "Moenkhausia_sanctaefilomenae" "Oligosarcus_pintoi" "Piabina_argentea" "Piabina_sp" "Pyrrhulina_australis" "Trachelyopterus_galeatus" "Psellogrammus_kennedyi" "Parodon_nasus" "Poecilia_reticulata" "Phenacorhamdia_tenebrosa" "Pyxiloricaria_menezesi" "Rineloricaria_sp" "Rineloricaria_lanceolata" "Roeboides_paranensis" "Rhamdia_quelen" "Serrapinnus_microdon" "Synbranchus_marmoratus" "Serrapinnus_notomelas"
+"Lagoa.cheia" 0 0 0 0 0 0 1 1 0 0 1 0 1 0 0 0 0 0 1 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0
+"lagoinha" 0 0 0 0 0 1 1 1 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0
+"s.virgem" 1 0 0 0 0 1 1 1 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"turvo" 1 0 0 0 0 0 1 1 0 0 0 0 1 1 1 0 0 1 0 1 1 0 0 0 1 0 1 0 0 1 1 1 1 1 0 0 0 1 1 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1
+"boa.vista" 1 0 0 0 0 0 1 0 0 1 1 0 1 1 0 0 0 1 0 0 1 0 0 0 1 0 1 0 1 1 0 0 0 0 0 0 0 1 1 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0
+"cab.dourados" 1 0 0 0 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+"aguafria" 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0
+"s.bento" 1 0 0 0 0 1 1 0 0 0 0 0 1 1 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 1 0 1 1 1 0 1 1 1 0 1 0 0 1 1 0 0 1 0 0 0 1 0 0 1 1
+"nova.alvorada" 1 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 1 1 0 0 1 1 0 1 0 0 0 1 1 1 1 0 0 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1
+"passa.tempo" 0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 0 0 0 0 1 1 0 0 1 1 0 0 0 0 1 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 1 0 1 1
+"apa" 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"fundo" 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+"miranda" 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"feio" 0 1 1 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1 0 0 1 0 0 0
+"taquarussu" 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+"mosqueteiro" 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"nioaque" 1 1 0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 1 0 0 1 0 0 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0
+"ita" 1 1 1 0 1 0 0 0 1 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+"dasmocas" 1 1 0 1 0 0 0 0 1 0 0 1 0 0 1 0 0 0 1 0 1 1 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 1 0 1 0 0 0
+"buriti" 1 1 1 0 0 0 1 0 0 0 0 0 0 1 0 1 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1
